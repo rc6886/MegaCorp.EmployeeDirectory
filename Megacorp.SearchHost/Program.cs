@@ -22,15 +22,15 @@ namespace Megacorp.SearchHost
             //    Interests = new[] {"Sports", "Music"},
             //};
 
-            //var employee2 = new Employee
-            //{
-            //    Id = 2,
-            //    FirstName = "Hane",
-            //    LastName = "Smith",
-            //    Age = 32,
-            //    About = "I like to collect rock albums",
-            //    Interests = new[] { "Music" },
-            //};
+            var employee2 = new Employee
+            {
+                Id = 2,
+                FirstName = "Hane",
+                LastName = "Smith",
+                Age = 32,
+                About = "I like to collect rock albums",
+                Interests = new[] { "Music" },
+            };
 
             //var employee3 = new Employee
             //{
